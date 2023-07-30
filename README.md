@@ -8,3 +8,6 @@ Explore the different iterations of "Nightmare Realm" available in this reposito
 
 <b> Version 1.0 -</b> The Nightmarish Beginning
 Version 1.0 marks the initial prototype of the game, where the haunting atmosphere was first crafted. Encounter basic gameplay mechanics, eerie environments, and glimpses of the terror to come.
+
+# Contributing
+This repository is intended for archival purposes, and contributions are not being accepted at the moment. However, your feedback and suggestions are valuable and can be shared by opening an issue. Feel free to report any bugs, provide insights, or share your experiences with " Lisa's Revenge."
