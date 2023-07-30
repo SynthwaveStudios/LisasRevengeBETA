@@ -16,6 +16,8 @@ This repository is intended for archival purposes, and contributions are not bei
 For any inquiries or support related to "Nightmare Realm," don't hesitate to contact us via email. We deeply appreciate your interest in our horror creation and hope you find yourself mesmerized by the fear and thrill that awaits within the "Nightmare Realm."
 
 [![Gameplay Screenshot](https://i.ibb.co/RCYSygN/Pics-Art-07-30-11-28-25.png)](https://ibb.co/RCYSygN)
+[![Support on Patreon](https://i.ibb.co/bRcLFXj/patreon-button.png)](https://www.patreon.com/SynthwaveStudios)
+
 
 
 
