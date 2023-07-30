@@ -11,3 +11,6 @@ Version 1.0 marks the initial prototype of the game, where the haunting atmosphe
 
 # Contributing
 This repository is intended for archival purposes, and contributions are not being accepted at the moment. However, your feedback and suggestions are valuable and can be shared by opening an issue. Feel free to report any bugs, provide insights, or share your experiences with " Lisa's Revenge."
+
+# Feedback and Support
+For any inquiries or support related to "Nightmare Realm," don't hesitate to contact us via email. We deeply appreciate your interest in our horror creation and hope you find yourself mesmerized by the fear and thrill that awaits within the "Nightmare Realm."
