@@ -6,7 +6,7 @@ This repository contains different versions of our horror game, "Lisa's  Revenge
 # Versions
 Explore the different iterations of "Nightmare Realm" available in this repository:
 
-<b> Version 1.0 -</b> The Nightmarish Beginning
+<b> <u>Version 1.0 - </u> </b> The Nightmarish Beginning
 Version 1.0 marks the initial prototype of the game, where the haunting atmosphere was first crafted. Encounter basic gameplay mechanics, eerie environments, and glimpses of the terror to come.
 
 # Contributing
