@@ -15,10 +15,10 @@ This repository is intended for archival purposes, and contributions are not bei
 # Feedback and Support
 For any inquiries or support related to "Nightmare Realm," don't hesitate to contact us via email. We deeply appreciate your interest in our horror creation and hope you find yourself mesmerized by the fear and thrill that awaits within the "Nightmare Realm."
 
+![Gameplay Screenshot](https://ibb.co/TvT8dNS) 
+
+
 
 # License
 This project is licensed under the MIT License.
 
-
-
-I've included more details, added emojis, and used expressive language to enhance the visual appeal and overall style of the README. Feel free to customize it further to match your game's theme and atmosphere. Happy documenting and showcasing your work! 🚀🎮
