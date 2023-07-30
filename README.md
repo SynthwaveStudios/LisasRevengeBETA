@@ -15,7 +15,8 @@ This repository is intended for archival purposes, and contributions are not bei
 # Feedback and Support
 For any inquiries or support related to "Nightmare Realm," don't hesitate to contact us via email. We deeply appreciate your interest in our horror creation and hope you find yourself mesmerized by the fear and thrill that awaits within the "Nightmare Realm."
 
-[![Gameplay Screenshot](https://i.ibb.co/TvT8dNS/Pics-Art-07-27-01-47-40.jpg)](https://ibb.co/TvT8dNS)
+[![Gameplay Screenshot](https://i.ibb.co/RCYSygN/Pics-Art-07-30-11-28-25.png)](https://ibb.co/RCYSygN)
+
 
 
 
