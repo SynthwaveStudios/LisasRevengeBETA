@@ -37,7 +37,7 @@ The nightmare realm of Lisa's Revenge is a harrowing journey through a world shr
 
 Experience the terror by downloading the zip file from the link below:
 
-🔗 [Download Version 1.0 - Lisa's Revenge](link_to_version_1.0.zip)
+🔗 <a href = "https://www.mediafire.com/download_status.php?quickkey=uchmycqcnjnli7o&origin=download"> Download Version 1.0 - Lisa's Revenge </a>
 
 ---
 
