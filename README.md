@@ -72,3 +72,50 @@ If you encounter any issues during the installation or gameplay, please refer to
 ---
 
 # Credits
+
+### Development Team
+
+- **Game Developer**: [Your Name](https://github.com/yourusername)
+- **Art Director**: [Art Director's Name](https://github.com/artdirectorusername)
+- **Sound Designer**: [Sound Designer's Name](https://github.com/sounddesignerusername)
+
+### Special Thanks
+
+We would like to express our heartfelt gratitude to the following individuals for their valuable contributions, support, and feedback during the development of "Lisa's Revenge: The Nightmare Unleashed":
+
+[List of contributors and testers]
+- Ankur Biswas
+- Arijit Bhomick
+- Arijit Paul
+- Nayanava Dutta
+- Ronak Choudhary
+- Sayantan Chakraborty
+
+### External Assets
+
+We would like to give credit to the creators of the following external assets used in the game:
+
+- [Name of the asset] - [Link to the asset source]
+- [Name of the asset] - [Link to the asset source]
+- [Name of the asset] - [Link to the asset source]
+
+### Open-Source Libraries
+
+"Lisa's Revenge: The Nightmare Unleashed" utilizes the following open-source libraries that greatly contributed to the development process:
+
+- [Name of the library] - [Link to the library's repository]
+
+### Special Mentions
+
+We extend our appreciation to the gaming community and all players who supported and provided valuable feedback to help us improve the game.
+
+### Disclaimer
+
+"Lisa's Revenge: The Nightmare Unleashed" is a work of fiction. Any resemblance to real persons, living or dead, is purely coincidental.
+
+---
+
+Thank you for being a part of this nightmare journey. Enjoy the spine-chilling experience in **Lisa's Revenge: The Nightmare Unleashed**!
+
+
+For any inquiries or support, you can reach our team at [support@example.com](mailto:synthwavesupport@example.com).
