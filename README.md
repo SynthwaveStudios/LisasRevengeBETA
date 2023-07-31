@@ -75,7 +75,7 @@ If you encounter any issues during the installation or gameplay, please refer to
 
 ### Development Team
 
-- **Game Developer**: Arijit Chakraborty (https://instagram.com/_synthwavestudio)
+- **Game Developer**: <a href = "https://instagram.com/_synthwavestudio"> Arijit Chakraborty </a>
 - **Art Director**: Getimg(https://getimg.ai)
 - **Sound Designer**: Hrithik Dey 
 
