@@ -42,7 +42,7 @@ Experience the terror by downloading the zip file from the link below:
 
 ---
 
-# Installation Guide 🚀
+# Installation Guide 
 
 Follow these simple steps to set up **Lisa's Revenge: The Nightmare Unleashed** on your device and immerse yourself in the terrifying world of Lisa's twisted revenge.
 
