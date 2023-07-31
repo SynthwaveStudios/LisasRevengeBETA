@@ -15,8 +15,8 @@ This repository is intended for archival purposes, and contributions are not bei
 # Feedback and Support
 For any inquiries or support related to "Nightmare Realm," don't hesitate to contact us via email. We deeply appreciate your interest in our horror creation and hope you find yourself mesmerized by the fear and thrill that awaits within the "Nightmare Realm."
 
-<a href = "https://www.patreon.com/SynthwaveStudios">
-<img>(https://github.com/SynthwaveStudios/LisasRevengeBETA/assets/138494560/a03daa3e-2551-4b88-a5dd-308e06dd932b)
+<a href="https://www.patreon.com/SynthwaveStudios">
+	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
 
