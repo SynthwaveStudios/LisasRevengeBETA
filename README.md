@@ -68,3 +68,7 @@ Navigate to the extracted folder and locate the game executable Lisa's Nightmare
 
 ### Troubleshooting
 If you encounter any issues during the installation or gameplay, please refer to the troubleshooting section of our documentation or contact our support team for assistance. You can reach our support team at synthwavehelpdesk@gmailcom. We are here to help you resolve any technical difficulties and ensure you have a smooth gaming experience.
+
+---
+
+# Credits
