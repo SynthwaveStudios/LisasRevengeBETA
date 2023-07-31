@@ -2,7 +2,7 @@
 # Lisa's Revenge BETA versions 🌌🕯️
 </h1>
 <p align="center">
-This repository contains different versions of our horror game, "Lisa's  Revenge: A Nightmare Unleashed". Each version represents a snapshot of the game's development at different stages. You can explore the evolution of the game and witness the changes and improvements made over time.
+This repository contains different versions of our horror game, "Lisa's  Revenge: A Nightmare Unleashed". 
 </p>
 
 # Versions
