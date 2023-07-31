@@ -1,5 +1,5 @@
 <h1 align="center">
-# Lisa's Revenge BETA versions 🌌🕯️
+# <color = "red"> Lisa's Revenge BETA versions </color>
 </h1>
 <h4 align="center">
 This repository contains different versions of our horror game, "Lisa's  Revenge: A Nightmare Unleashed". 
