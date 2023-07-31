@@ -67,7 +67,7 @@ Once the download is complete, locate the downloaded zip file and extract its co
 Navigate to the extracted folder and locate the game executable Lisa's Nightmare.exe for Windows. Double-click on the executable to launch the game.
 
 ### Troubleshooting
-If you encounter any issues during the installation or gameplay, please refer to the troubleshooting section of our documentation or contact our support team for assistance. You can reach our support team at [mailto: synthwavehelpdesk@gmailcom]. We are here to help you resolve any technical difficulties and ensure you have a smooth gaming experience.
+If you encounter any issues during the installation or gameplay, please refer to the troubleshooting section of our documentation or contact our support team for assistance. You can reach our support team at [helpdesk@synthwave.com](mailto:synthwavehelpdesk@gmailcom). We are here to help you resolve any technical difficulties and ensure you have a smooth gaming experience.
 
 ---
 
