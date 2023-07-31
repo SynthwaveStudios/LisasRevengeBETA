@@ -110,6 +110,19 @@ We would like to give credit to the creators of the following external assets us
 Thank you for being a part of this nightmare journey. Enjoy the spine-chilling experience in **Lisa's Revenge: The Nightmare Unleashed**!
 
 
-For any inquiries or support, you can reach our team at [support@example.com](mailto:synthwavesupport@example.com).
+For any inquiries or support, you can reach our team at [support@example.com](mailto:synthwavesupport@gmail.com).
 
 ---
+
+# Related
+
+### External Resources
+
+- [Website](https://officialsynthwavestudio.godaddusites.com): Dive deeper into the development process of "Lisa's Revenge: The Nightmare Unleashed" by reading our game development blog. Learn about the challenges, inspirations, and behind-the-scenes stories of creating the nightmare world.
+
+### Community and Feedback
+
+- Join our <a href = "https://discord.gg/KW2dbPyTmp"> Discord Server </a> to connect with other players, share your experiences, and participate in discussions about the game.
+
+---
+
