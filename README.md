@@ -75,9 +75,9 @@ If you encounter any issues during the installation or gameplay, please refer to
 
 ### Development Team
 
-- **Game Developer**: [Your Name](https://github.com/yourusername)
-- **Art Director**: [Art Director's Name](https://github.com/artdirectorusername)
-- **Sound Designer**: [Sound Designer's Name](https://github.com/sounddesignerusername)
+- **Game Developer**: Arijit Chakraborty (https://instagram.com/_synthwavestudio)
+- **Art Director**: Getimg(https://getimg.ai)
+- **Sound Designer**: Hrithik Dey 
 
 ### Special Thanks
 
@@ -90,30 +90,22 @@ We would like to express our heartfelt gratitude to the following individuals fo
 - Nayanava Dutta
 - Ronak Choudhary
 - Sayantan Chakraborty
+- MD ZEYA Arshad
+- Not Known
+- Somojeet Shil
 
 ### External Assets
 
 We would like to give credit to the creators of the following external assets used in the game:
 
-- [Name of the asset] - [Link to the asset source]
-- [Name of the asset] - [Link to the asset source]
-- [Name of the asset] - [Link to the asset source]
-
-### Open-Source Libraries
-
-"Lisa's Revenge: The Nightmare Unleashed" utilizes the following open-source libraries that greatly contributed to the development process:
-
-- [Name of the library] - [Link to the library's repository]
-
-### Special Mentions
-
-We extend our appreciation to the gaming community and all players who supported and provided valuable feedback to help us improve the game.
+- [Real Blood] - [https://assetstore.unity.com/packages/templates/systems/real-blood-158913]
+- [Unity Standard Asset] - [https://assetstore.unity.com/packages/essentials/starter-assets-first-person-character-controller-urp-196525]
+- [Mega Magic Effect Pack] - [https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-247933]~
+- [Ultimate Shader Pack] - [https://assetstore.unity.com/packages/vfx/shaders/ultimate-10-shaders-168611]
 
 ### Disclaimer
 
 "Lisa's Revenge: The Nightmare Unleashed" is a work of fiction. Any resemblance to real persons, living or dead, is purely coincidental.
-
----
 
 Thank you for being a part of this nightmare journey. Enjoy the spine-chilling experience in **Lisa's Revenge: The Nightmare Unleashed**!
 
