@@ -46,7 +46,7 @@ Experience the terror by downloading the zip file from the link below:
 
 Follow these simple steps to set up **Lisa's Revenge: The Nightmare Unleashed** on your device and immerse yourself in the terrifying world of Lisa's twisted revenge.
 
-## Prerequisites
+### Prerequisites
 
 Before you begin, ensure you have the following:
 
@@ -54,18 +54,18 @@ Before you begin, ensure you have the following:
 - Storage Space: 2 GB
 - Graphics Card: NVIDIA GeForce GTX 1660 Super
 
-## Step 1: Download
+### Step 1: Download
 
 Click on the download link below to get the latest version of **Lisa's Revenge**:
 
 ```markdown
 🔗 [Download Lisa's Revenge - Version 1.0](link_to_version_1.0.zip)
 ```
-## Step 2: Extract 
+### Step 2: Extract 
 Once the download is complete, locate the downloaded zip file and extract its contents to a location of your choice on your device.
 
-## Step 3: Run the Game
+### Step 3: Run the Game
 Navigate to the extracted folder and locate the game executable Lisa's Nightmare.exe for Windows. Double-click on the executable to launch the game.
 
-## Troubleshooting
+### Troubleshooting
 If you encounter any issues during the installation or gameplay, please refer to the troubleshooting section of our documentation or contact our support team for assistance. You can reach our support team at synthwavehelpdesk@gmailcom. We are here to help you resolve any technical difficulties and ensure you have a smooth gaming experience.
