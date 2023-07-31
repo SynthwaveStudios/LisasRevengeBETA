@@ -5,7 +5,7 @@ Lisa's Revenge BETA Versions
 <br>
 <p align= "center">Contents </p>
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#versions">Versions</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
