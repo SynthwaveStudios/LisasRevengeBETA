@@ -6,7 +6,7 @@ Lisa's Revenge BETA Versions
 <p align= "center">Contents </p>
 <p align="center">
   <a href="#versions">Versions</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#instalation-guide">Instalation Guide</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
@@ -41,3 +41,23 @@ Experience the terror by downloading the zip file from the link below:
 🔗 [Download Version 1.0 - Lisa's Revenge](link_to_version_1.0.zip)
 
 ---
+
+# Installation Guide 🚀
+
+Follow these simple steps to set up **Lisa's Revenge: The Nightmare Unleashed** on your device and immerse yourself in the terrifying world of Lisa's twisted revenge.
+
+## Prerequisites
+
+Before you begin, ensure you have the following:
+
+- Operating System: [Specify the supported operating systems, e.g., Windows, macOS, Linux]
+- Storage Space: [Specify the minimum required storage space, e.g., 2GB]
+- Graphics Card: [Specify any minimum graphics card requirements, if applicable]
+
+## Step 1: Download
+
+Click on the download link below to get the latest version of **Lisa's Revenge**:
+
+```markdown
+🔗 [Download Lisa's Revenge - Version 1.0](link_to_version_1.0.zip)
+
