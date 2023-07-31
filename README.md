@@ -1,9 +1,9 @@
 <h1 align="center">
 # Lisa's Revenge BETA versions 🌌🕯️
 </h1>
-<p align="center">
+<h4 align="center">
 This repository contains different versions of our horror game, "Lisa's  Revenge: A Nightmare Unleashed". 
-</p>
+</h4>
 
 # Versions
 Explore the different iterations of "Nightmare Realm" available in this repository:
