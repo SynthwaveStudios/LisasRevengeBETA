@@ -6,7 +6,7 @@ Lisa's Revenge BETA Versions
 <p align= "center">Contents </p>
 <p align="center">
   <a href="#versions">Versions</a> •
-  <a href="installation-guide">Installation Guide</a> •
+  <a href="installation">Installation</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
@@ -42,7 +42,7 @@ Experience the terror by downloading the zip file from the link below:
 
 ---
 
-# Installation Guide 
+# Installation
 
 Follow these simple steps to set up **Lisa's Revenge: The Nightmare Unleashed** on your device and immerse yourself in the terrifying world of Lisa's twisted revenge.
 
