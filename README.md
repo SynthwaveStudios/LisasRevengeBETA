@@ -76,7 +76,7 @@ If you encounter any issues during the installation or gameplay, please refer to
 ### Development Team
 
 - **Game Developer**: <a href = "https://instagram.com/_synthwavestudio"> Arijit Chakraborty </a>
-- **Art Director**: Getimg(https://getimg.ai)
+- **Art Director**: <a href = "https://getimg.ai"> Getimg AI </a>
 - **Sound Designer**: Hrithik Dey 
 
 ### Special Thanks
@@ -111,3 +111,5 @@ Thank you for being a part of this nightmare journey. Enjoy the spine-chilling e
 
 
 For any inquiries or support, you can reach our team at [support@example.com](mailto:synthwavesupport@example.com).
+
+---
