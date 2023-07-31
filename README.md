@@ -52,7 +52,7 @@ Before you begin, ensure you have the following:
 
 - Operating System: [Specify the supported operating systems, e.g., Windows, macOS, Linux]
 - Storage Space: [Specify the minimum required storage space, e.g., 2GB]
-- Graphics Card: [Specify any minimum graphics card requirements, if applicable]
+- Graphics Card: [NVIDIA GeForce GTX 1660 Super]
 
 ## Step 1: Download
 
